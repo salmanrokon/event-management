@@ -1,9 +1,16 @@
+import Hedaer from "../shared/Header/Hedaer";
 
 
 const Home = () => {
     return (
         <div>
-           This Is Home 
+           <div>
+           <Hedaer></Hedaer>
+           </div>
+           <div>
+            
+           </div>
+
         </div>
     );
 };
