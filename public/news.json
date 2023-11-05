@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Conference Event",
+    "description": "A professional conference event designed to bring together experts and enthusiasts from various fields to share knowledge and ideas. Our comprehensive approach ensures a smooth and productive experience for all attendees.",
+    "img": "https://i.ibb.co/KxXZC53/7-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Exhibition Showcase",
+    "description": "An engaging exhibition showcasing the latest trends and innovations in various industries. Our meticulous planning and attention to detail ensure a visually stunning and informative experience for visitors and participants alike.",
+    "img": "https://i.ibb.co/CtXsxpQ/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Product Launch Event",
+    "description": "A carefully orchestrated product launch event that highlights the unique features and benefits of your latest offerings. Our strategic approach guarantees maximum exposure and a memorable launch experience for your brand.",
+    "img": "https://i.ibb.co/KxXZC53/7-1.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Annual Meeting Celebration",
+    "description": "An annual meeting celebration that brings together stakeholders, shareholders, and executives to review the company's progress and set future goals. Our meticulous planning ensures a seamless and impactful meeting experience for all participants.",
+    "img": "https://i.ibb.co/FxbF73s/11.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Brand Activation Campaign",
+    "description": "A dynamic brand activation campaign designed to engage consumers and create a lasting impression. Our innovative approach ensures a unique and immersive experience that resonates with your target audience.",
+    "img": "https://i.ibb.co/LRYdHZ6/1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Virtual Conference Experience",
+    "description": "A cutting-edge virtual conference experience that brings together participants from around the globe. Our advanced technology and seamless integration create an immersive and interactive virtual environment for all attendees.",
+    "img": "https://i.ibb.co/CtXsxpQ/2.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Artist Management Services",
+    "description": "Comprehensive artist management services tailored to meet the unique requirements of your event. Our extensive network and expertise ensure a seamless and successful collaboration with renowned artists across various genres.",
+    "img": "https://i.ibb.co/yYqrT56/3.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Concert Spectacular",
+    "description": "An electrifying concert experience featuring top-tier artists and performers. Our meticulous planning and production expertise guarantee an unforgettable and seamless concert experience for both the audience and the performers.",
+    "img": "https://i.ibb.co/HtJVDdK/4.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Fashion Show Extravaganza",
+    "description": "A dazzling fashion show extravaganza that highlights the latest trends and designs from renowned fashion houses. Our creative direction and attention to detail ensure a visually stunning and memorable experience for all fashion enthusiasts.",
+    "img": "https://i.ibb.co/W0FDVrD/5-1.png"
+  },
+  {
+    "id": 10,
+    "title": "Road Show Event",
+    "description": "An engaging roadshow event that travels to different locations, promoting products or services to a diverse audience. Our strategic planning and execution guarantee a successful and impactful roadshow experience for your brand.",
+    "img": "https://i.ibb.co/DRLrJhv/5.png"
+  },
+  {
+    "id": 11,
+    "title": "Wedding Event Management",
+    "description": "A bespoke wedding event management service designed to bring your dream wedding to life. Our personalized approach and attention to detail ensure a seamless and enchanting experience for the couple and their guests.",
+    "img": "https://i.ibb.co/RCxsMKV/6.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Birthday Event Celebration",
+    "description": "A vibrant birthday event celebration that creates lasting memories for the guests of honor and attendees. Our creative themes and comprehensive planning ensure a fun and unforgettable birthday experience for people of all ages.",
+    "img": "https://i.ibb.co/FxbF73s/11.jpg"
+  },
+  {
+    "id": 13,
+    "title": "WHO WE ARE",
+    "description": "With a perfect blend of experience and passion, Dhaka Event Planner is an event management company in Bangladesh. We’ve emerged as a company with ideas to turn your corporate or personal event into something worth remembering. With the help of our creative team, we provide our services to most types of corporate events including, but not limited to, seminars, conferences, trade shows, cultural events, company or organization milestones, exhibitions, product launches, concerts, company annual meetings, corporate picnics, fashion shows and appreciation events. We will also strive to make your wedding events, birthday events and other personal events unforgettable. Bangladesh, with Dhaka at the heart of it, is a country that has become a wonder for quite a few people with its rapid economic growth in the last 10 years or so. Companies, organizations and various businesses have become the driving force for the economic development of this country. Both corporate and personal event management services in Dhaka, Chittagong, Cox's Bazar and in the whole Bangladesh is becoming more and more common. We at Dhaka Event Planner believe that it's our responsibility as an event management company to deliver our services to our clients with reliability, dependability and creativity. We want you to remember the events that we get to manage for you. We thrive to mix and match the best styles and themes for your events. With so many events happening in Dhaka and all over Bangladesh, we believe that it’s very important that you stand out with your events as our client. An event itself is an opportunity to display your creation positively and inspire people to take positive actions. Dhaka Event Planner helps you achieve your event’s desired objectives and a little bit extra to make it an immersive experience for all the attendees. We start by learning who you are and what your objectives are for the event. This enables us to tailor your event for the best experience of all parties involved.",
+    "img": "https://example.com/dhaka-event-planner.jpg"
+  }
+]
