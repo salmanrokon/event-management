@@ -11,7 +11,6 @@ console.log(details);
     return (
         <div>
            
-          <Hedaer></Hedaer>
            <div>
            
             {
